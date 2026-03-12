@@ -26,10 +26,10 @@ Projeto prático com foco em fundamentos de conteinerização, publicação de i
 
 **Demonstração do projeto em execução**
 
-<img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/ad7fbff7-52ed-4bb7-9380-8d7d15e44b8d" />
+<img width="1370" height="742" alt="{1DA50452-B8C8-4B24-8B0A-CEEA49EBD087}" src="https://github.com/user-attachments/assets/3e1414c0-fac6-42c8-8114-047fcf6fccb9" />
 
-<img width="1869" height="950" alt="image" src="https://github.com/user-attachments/assets/983146e6-4530-4d06-a115-109923bbdbcb" />
+<img width="1870" height="948" alt="image" src="https://github.com/user-attachments/assets/61f1329b-c05e-4ed4-ae26-105113adeb1a" />
 
-<img width="1869" height="946" alt="image" src="https://github.com/user-attachments/assets/815b5681-97d6-4af2-b7d6-e311b927907a" />
+<img width="1868" height="948" alt="image" src="https://github.com/user-attachments/assets/f8200d62-22b8-4fcd-bcb4-498cec3ee9d5" />
 
-<img width="1870" height="943" alt="image" src="https://github.com/user-attachments/assets/bc3032f3-b451-4ed5-8be4-0478f3f59083" />
+<img width="1873" height="945" alt="image" src="https://github.com/user-attachments/assets/6ac7f368-7c91-4654-bf0a-a508efeb87ba" />
